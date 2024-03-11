@@ -1,5 +1,10 @@
 package mi.m4x.project.robur;
 
+/**
+ * This class is used to generate a random password.
+ *
+ * @author M4ximumPizza
+ */
 public class PasswordGenerator {
     public String generateRandomPassword(int length) {
         String characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()-_=+";

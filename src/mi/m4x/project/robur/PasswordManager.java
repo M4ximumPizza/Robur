@@ -2,6 +2,11 @@ package mi.m4x.project.robur;
 
 import java.util.Scanner;
 
+/**
+ * This class is used to manage the password manager.
+ *
+ * @author M4ximumPizza
+ */
 public class PasswordManager {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

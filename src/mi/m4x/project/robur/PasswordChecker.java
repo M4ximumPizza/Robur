@@ -1,5 +1,10 @@
 package mi.m4x.project.robur;
 
+/**
+ * A class to check the strength of a password.
+ *
+ * @author M4ximumPizza
+ */
 public class PasswordChecker {
     public int calculatePasswordStrength(String password) {
         int score = 0;
